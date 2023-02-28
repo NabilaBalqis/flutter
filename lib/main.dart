@@ -10,7 +10,7 @@ void main() {
               color: Colors.white,
               child: Center(
                 child: Text(
-                  "Hello World",
+                  "Hello",
                   textDirection: TextDirection.ltr,
                   style: TextStyle(color: Colors.black, fontSize: 40.0),
                 ),
